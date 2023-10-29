@@ -6,7 +6,8 @@ __pycache__
 db.sqlite3
 media
 
-# Tailwindcss 
+# Tailwindcss
+tailwindcss
 output.css
 
 # Backup files # 
