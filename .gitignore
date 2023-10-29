@@ -8,7 +8,6 @@ media
 
 # Tailwindcss 
 output.css
-tailwindcss
 
 # Backup files # 
 *.bak 
